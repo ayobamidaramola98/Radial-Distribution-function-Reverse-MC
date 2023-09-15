@@ -1,3 +1,8 @@
+#### This code is original owned by Daramola Ayobami ############
+##### contact: ayobamidaramola98@gmail.com for clarity#############
+##### Prequisite: install python ############################
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
